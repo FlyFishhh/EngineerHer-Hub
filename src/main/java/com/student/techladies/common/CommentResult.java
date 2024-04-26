@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * @ClassName CommentResult
  * @Description TODO
- * @Author sandy.sun
+ * @Author dunmin
  * @Date 2024/4/14 21:38
  * @Version 1.0
  */

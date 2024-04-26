@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * @ClassName LikeRequest
  * @Description TODO
- * @Author sandy.sun
+ * @Author dunmin
  * @Date 2024/4/14 19:44
  * @Version 1.0
  */

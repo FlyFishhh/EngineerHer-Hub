@@ -9,7 +9,7 @@ import java.util.Date;
 /**
  * @ClassName NoticeResponse
  * @Description TODO
- * @Author sandy.sun
+ * @Author dunmin
  * @Date 2024/4/16 00:22
  * @Version 1.0
  */

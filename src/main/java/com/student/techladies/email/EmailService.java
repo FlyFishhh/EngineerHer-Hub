@@ -1,7 +1,7 @@
 package com.student.techladies.email;
  
 /**
- * @author heshi
+ * @author dunmin
  */
  
 public interface EmailService {

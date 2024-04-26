@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @ClassName NoticeResult
  * @Description TODO
- * @Author sandy.sun
+ * @Author dunmin
  * @Date 2024/4/14 21:40
  * @Version 1.0
  */
