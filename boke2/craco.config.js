@@ -28,10 +28,10 @@ module.exports = {
   },
   //配置代理解决跨域
   devServer: {
-    port: 4001,
+    port: 4002,
     proxy: {
       "/api": {
-        target: "http://c5is4y.natappfree.cc",
+        target: "http://localhost:8789",
         changeOrigin: true,
         pathRewrite: {
           "^/api": "/",

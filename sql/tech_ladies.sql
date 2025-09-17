@@ -124,6 +124,7 @@ CREATE TABLE `post`  (
                          `comments` int NULL DEFAULT 0,
                          `focus` int NULL DEFAULT 0,
                          `create_time` datetime NOT NULL,
+                          `tag` varchar(255) null default null,
                          PRIMARY KEY (`id`) USING BTREE
 ) ENGINE = InnoDB AUTO_INCREMENT = 35 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci ROW_FORMAT = Dynamic;
 

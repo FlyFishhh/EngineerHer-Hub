@@ -30,7 +30,7 @@ public class EmailUtil implements EmailService
     @Autowired
     private JavaMailSender mailSender;
  
-    // 配置文件中我的qq邮箱
+    // 配置文件中我的邮箱
     @Value("${spring.mail.from}")
     private String from;
  
